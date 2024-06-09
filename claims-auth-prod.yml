@@ -7,7 +7,7 @@ spring:
   datasource:
     url: jdbc:h2:mem:users;
     username: sa
-    password: sa
+    password: admin
     driver-clas-name: org.h2.Driver
   jpa:
     database-platform: org.hibernate.dialect.H2Dialect
